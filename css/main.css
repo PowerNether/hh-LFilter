@@ -317,6 +317,10 @@ ymaps .termin-main-box {
   margin-left: 8px;
 }
 
+.termin-three-box .property-image .image-overlay .overlay-bottom .bottom-icon:last-child svg {
+  margin-right: 8px;
+}
+
 .termin-three-box .property-image img {
   line-height: 0;
   font-size: 0;

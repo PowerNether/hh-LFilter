@@ -255,6 +255,11 @@ ymaps .termin-main-box {
           padding: 8px 16px;
           margin-left: 8px;
         }
+        .bottom-icon:last-child {
+          svg {
+            margin-right: 8px;
+          }
+        }
       }
     }
     img {
